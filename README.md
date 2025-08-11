@@ -17,9 +17,7 @@ Clone the repository and work in VS Code, WebStorm, or any preferred editor.
 
 Requires Node.js & npm → Install via NVM
 
-bash
-Copy
-Edit
+
 # Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 

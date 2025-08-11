@@ -44,16 +44,16 @@ const Footer = () => {
             {/* Company Info */}
             <div className="space-y-6 animate-slide-in-left">
               <div className="flex items-center space-x-3">
-                <img src={logo} alt="Vital Supplements" className="h-12 w-12" />
+                <img src={logo} alt="SK Supplements" className="h-12 w-12" />
                 <div>
-                  <h3 className="text-xl font-bold text-foreground">VITAL</h3>
+                  <h3 className="text-xl font-bold text-foreground">SK</h3>
                   <p className="text-primary font-bold">SUPPLEMENTS</p>
                 </div>
               </div>
               
               <p className="text-muted-foreground leading-relaxed">
-                Pakistan's most trusted supplement store offering 100% authentic products 
-                with fast delivery and exceptional customer service.
+                Started by fitness enthusiasts in Sukkur, SK Supplements delivers authentic, 
+                high-quality fitness supplements from UK, USA, and Dubai to power your gains.
               </p>
               
               {/* Social Links */}
@@ -107,8 +107,9 @@ const Footer = () => {
               <h4 className="text-lg font-bold text-foreground">Categories</h4>
               <ul className="space-y-3">
                 {[
-                  "Whey Protein", "Mass Gainers", "Pre-Workout", "Creatine",
-                  "BCAA", "Fat Burners", "Vitamins", "Testosterone Boosters"
+                  "Whey Protein", "ISO-Lete", "Creatine", "Mass Gainer", 
+                  "BCAA", "Pre Workout", "Fat Burner", "Testosterone Booster",
+                  "Fish Oil", "Multi Vitamins", "Amino Acids"
                 ].map((category) => (
                   <li key={category}>
                     <a 
@@ -132,7 +133,7 @@ const Footer = () => {
                 <div className="flex items-start space-x-3">
                   <Phone className="h-5 w-5 text-primary mt-1 flex-shrink-0" />
                   <div>
-                    <p className="text-foreground font-medium">+92 370 1565905</p>
+                    <p className="text-foreground font-medium">0327-3350722</p>
                     <p className="text-muted-foreground text-sm">Mon-Sat 9AM-8PM</p>
                   </div>
                 </div>
@@ -140,7 +141,7 @@ const Footer = () => {
                 <div className="flex items-start space-x-3">
                   <Mail className="h-5 w-5 text-primary mt-1 flex-shrink-0" />
                   <div>
-                    <p className="text-foreground font-medium">info@vitalsupplements.pk</p>
+                    <p className="text-foreground font-medium">sksuppliment@gmail.com</p>
                     <p className="text-muted-foreground text-sm">24/7 Support</p>
                   </div>
                 </div>
@@ -148,7 +149,7 @@ const Footer = () => {
                 <div className="flex items-start space-x-3">
                   <MapPin className="h-5 w-5 text-primary mt-1 flex-shrink-0" />
                   <div>
-                    <p className="text-foreground font-medium">Karachi, Pakistan</p>
+                    <p className="text-foreground font-medium">Sukkur, Sindh, Pakistan</p>
                     <p className="text-muted-foreground text-sm">Nationwide Delivery</p>
                   </div>
                 </div>
@@ -179,7 +180,7 @@ const Footer = () => {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-muted-foreground text-sm">
-              © {currentYear} Vital Supplements. All rights reserved.
+              © {currentYear} SK Supplements. All rights reserved.
             </p>
             
             <div className="flex items-center space-x-6 text-sm text-muted-foreground">

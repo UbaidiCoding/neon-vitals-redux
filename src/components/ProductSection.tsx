@@ -79,10 +79,12 @@ const ProductSection = () => {
 
   const categories = [
     { id: "featured", label: "Featured", count: 6 },
-    { id: "protein", label: "Protein", count: 45 },
-    { id: "preworkout", label: "Pre-Workout", count: 23 },
+    { id: "whey", label: "Whey Protein", count: 45 },
+    { id: "massGainer", label: "Mass Gainer", count: 23 },
     { id: "creatine", label: "Creatine", count: 18 },
-    { id: "bcaa", label: "BCAA", count: 15 }
+    { id: "bcaa", label: "BCAA", count: 15 },
+    { id: "preworkout", label: "Pre Workout", count: 12 },
+    { id: "fatBurner", label: "Fat Burner", count: 8 }
   ];
 
   return (

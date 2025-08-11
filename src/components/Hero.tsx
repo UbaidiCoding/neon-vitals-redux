@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="absolute inset-0 z-0">
         <img 
           src={heroImage} 
-          alt="Vital Supplements Hero" 
+          alt="SK Supplements Hero"
           className="w-full h-full object-cover opacity-30"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-background via-background/80 to-transparent"></div>
@@ -34,16 +34,16 @@ const Hero = () => {
               </div>
               
               <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-                <span className="text-foreground">VITAL</span>
+                <span className="text-foreground">SK</span>
                 <br />
                 <span className="text-primary animate-glow">SUPPLEMENTS</span>
                 <br />
-                <span className="text-foreground text-2xl md:text-4xl lg:text-5xl">Premium Quality</span>
+                <span className="text-foreground text-2xl md:text-4xl lg:text-5xl">Premium Imported</span>
               </h1>
               
               <p className="text-lg md:text-xl text-muted-foreground max-w-lg">
-                Transform your fitness journey with our premium collection of supplements. 
-                Authentic products, competitive prices, and fast delivery across Pakistan.
+                Fuel your fitness journey with 100% original supplements from UK, USA, and Dubai. 
+                Shop Aminos, Whey, Creatine, Mass Gainers & more in Sukkur, Sindh.
               </p>
             </div>
 

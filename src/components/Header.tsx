@@ -11,7 +11,7 @@ const Header = () => {
     <>
       {/* Top Banner */}
       <div className="bg-primary text-primary-foreground py-2 px-4 text-center text-sm animate-neon-pulse">
-        <p className="font-medium">100% Authenticity Guaranteed | For Orders Call +92 370 1565905</p>
+        <p className="font-medium">MuscleFuel, GainPro, PurePower Nutrition | Call 0327-3350722</p>
       </div>
 
       {/* Main Header */}
@@ -21,17 +21,17 @@ const Header = () => {
             
             {/* Logo */}
             <div className="flex items-center space-x-2 animate-slide-in-left">
-              <img src={logo} alt="Vital Supplements" className="h-12 w-12 md:h-16 md:w-16 animate-glow" />
+              <img src={logo} alt="SK Supplements" className="h-12 w-12 md:h-16 md:w-16 animate-glow" />
               <div className="hidden md:block">
                 <h1 className="text-xl md:text-2xl font-bold text-foreground">
-                  VITAL <span className="text-primary">SUPPLEMENTS</span>
+                  SK <span className="text-primary">SUPPLEMENTS</span>
                 </h1>
               </div>
             </div>
 
             {/* Desktop Navigation */}
             <nav className="hidden lg:flex items-center space-x-8">
-              {["Home", "Supplements", "Medicine", "Injectable", "Oral", "Peptide", "SARM"].map((item) => (
+            {["Home", "Whey Protein", "Mass Gainer", "Creatine", "BCAA", "Pre Workout", "Fat Burner"].map((item) => (
                 <a
                   key={item}
                   href="#"
@@ -98,7 +98,7 @@ const Header = () => {
         {isMenuOpen && (
           <div className="lg:hidden bg-card border-t border-border animate-fade-in-up">
             <nav className="container mx-auto px-4 py-4 space-y-2">
-              {["Home", "Supplements", "Medicine", "Injectable", "Oral", "Peptide", "SARM"].map((item) => (
+              {["Home", "Whey Protein", "Mass Gainer", "Creatine", "BCAA", "Pre Workout", "Fat Burner"].map((item) => (
                 <a
                   key={item}
                   href="#"

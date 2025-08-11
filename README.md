@@ -1,23 +1,25 @@
-🚀 Welcome to Your Lovable Project
-📌 Project Info
-Live URL: Lovable Project – Samiullah Samejo
+# 🚀 Welcome to Your Lovable Project  
 
-Tags: samiullahsamejo, samisamejo, ubaidicoding, ubaidiitcommunity, pakistan developer, best developer, vite, react, typescript, tailwind, shadcn-ui
+## 📌 Project Info  
 
-🛠 How to Edit This Project
-1️⃣ Edit via Lovable
-Open your project here: Lovable Project
+**Live URL:** [Lovable Project – Samiullah Samejo](https://lovable.dev/projects/c2ac9644-1537-4fcb-9bf2-ac48b62c1768)  
 
-Start prompting to make changes.
+**Tags:** samiullahsamejo, samisamejo, ubaidicoding, ubaidiitcommunity, pakistan developer, best developer, vite, react, typescript, tailwind, shadcn-ui  
 
-All edits are automatically committed to this repository.
+---
 
-2️⃣ Edit Locally with Your IDE
-Clone the repository and work in VS Code, WebStorm, or any preferred editor.
+## 🛠 How to Edit This Project  
 
-Requires Node.js & npm → Install via NVM
+### 1️⃣ Edit via **Lovable**  
+- Open your project here: [Lovable Project](https://lovable.dev/projects/c2ac9644-1537-4fcb-9bf2-ac48b62c1768)  
+- Start prompting to make changes.  
+- All edits are automatically committed to this repository.  
 
+### 2️⃣ Edit Locally with Your IDE  
+- Clone the repository and work in **VS Code**, **WebStorm**, or any preferred editor.  
+- Requires **Node.js & npm** → [Install via NVM](https://github.com/nvm-sh/nvm#installing-and-updating)  
 
+```bash
 # Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
@@ -66,3 +68,4 @@ Follow the Step-by-Step Guide
 Built and maintained by Samiullah Samejo – Founder of UbaidiITCommunity & UbaidiCoding, a leading tech creator in Pakistan.
 Skilled in React, Cybersecurity, Full-Stack Development, and building modern, high-performance applications.
 
+<meta name="description" content="Samiullah Samejo | Best Developer in Pakistan | Founder of UbaidiITCommunity and UbaidiCoding | React, TypeScript, Tailwind, Vite, shadcn-ui projects."> <meta name="keywords" content="samiullahsamejo, samisamejo, ubaidicoding, ubaidiitcommunity, pakistan best developer, react developer, vite, tailwind, typescript, shadcn-ui"> <meta name="author" content="Samiullah Samejo"> <!-- JSON-LD Schema for Rich Search Results --> <script type="application/ld+json"> { "@context": "https://schema.org", "@type": "Person", "name": "Samiullah Samejo", "url": "https://lovable.dev/projects/c2ac9644-1537-4fcb-9bf2-ac48b62c1768", "jobTitle": "Full-Stack Developer & Cybersecurity Analyst", "affiliation": { "@type": "Organization", "name": "UbaidiITCommunity" }, "sameAs": [ "https://github.com/samiullahsamejo", "https://ubaidicoding.com" ], "knowsAbout": ["React", "TypeScript", "Tailwind", "Vite", "Cybersecurity"] } </script>

@@ -44,15 +44,14 @@ const Footer = () => {
             {/* Company Info */}
             <div className="space-y-6 animate-slide-in-left">
               <div className="flex items-center space-x-3">
-                <img src={logo} alt="SK Supplements" className="h-12 w-12" />
+                <img src={logo} alt="FuelIron" className="h-12 w-12" />
                 <div>
-                  <h3 className="text-xl font-bold text-foreground">SK</h3>
-                  <p className="text-primary font-bold">SUPPLEMENTS</p>
+                  <h3 className="text-xl font-bold text-foreground">Fuel<span className="text-primary">Iron</span></h3>
                 </div>
               </div>
               
               <p className="text-muted-foreground leading-relaxed">
-                Started by fitness enthusiasts in Sukkur, SK Supplements delivers authentic, 
+                Started by fitness enthusiasts in Sukkur, FuelIron delivers authentic, 
                 high-quality fitness supplements from UK, USA, and Dubai to power your gains.
               </p>
               
@@ -180,7 +179,7 @@ const Footer = () => {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-muted-foreground text-sm">
-              © {currentYear} SK Supplements. All rights reserved.
+              © {currentYear} FuelIron. All rights reserved.
             </p>
             
             <div className="flex items-center space-x-6 text-sm text-muted-foreground">

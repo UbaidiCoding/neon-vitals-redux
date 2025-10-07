@@ -42,7 +42,7 @@ const Testimonials = () => {
             Real <span className="text-primary animate-glow">Results</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            See what our customers are saying about their transformation with SK Supplements.
+            See what our customers are saying about their transformation with FuelIron.
           </p>
         </div>
 

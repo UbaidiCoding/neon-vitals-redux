@@ -21,10 +21,10 @@ const Header = () => {
             
             {/* Logo */}
             <div className="flex items-center space-x-2 animate-slide-in-left">
-              <img src={logo} alt="SK Supplements" className="h-12 w-12 md:h-16 md:w-16 animate-glow" />
+              <img src={logo} alt="FuelIron" className="h-12 w-12 md:h-16 md:w-16 animate-glow" />
               <div className="hidden md:block">
                 <h1 className="text-xl md:text-2xl font-bold text-foreground">
-                  SK <span className="text-primary">SUPPLEMENTS</span>
+                  Fuel<span className="text-primary">Iron</span>
                 </h1>
               </div>
             </div>
